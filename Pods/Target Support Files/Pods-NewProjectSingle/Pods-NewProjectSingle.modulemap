@@ -1,0 +1,6 @@
+framework module Pods_NewProjectSingle {
+  umbrella header "Pods-NewProjectSingle-umbrella.h"
+
+  export *
+  module * { export * }
+}
